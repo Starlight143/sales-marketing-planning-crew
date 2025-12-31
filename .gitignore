@@ -1,0 +1,5 @@
+openrouter_key.txt
+.env
+.env.*
+saved_projects/
+__pycache__/
